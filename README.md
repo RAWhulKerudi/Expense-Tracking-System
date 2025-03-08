@@ -1,5 +1,5 @@
 
-![ETS](images/EPS.png)
+![ETS](EPS.png)
 
 
 # Expense Tracking System
