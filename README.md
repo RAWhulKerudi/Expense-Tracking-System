@@ -3,6 +3,10 @@
 
 
 # Expense Tracking System
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 Streamlit serves as the frontend application for this project, 
 and Fastapi serves as the backend server. 
 The project was designed to be an expense tracking system.
